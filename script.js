@@ -56,14 +56,8 @@ const data = [
     title: "Wikimedia Donor Appeal",
     tag: "Fundraising",
     description:
-      "Single-column editorial donor appeal modeled after Wikipedia's famous personal fundraising campaigns. Features bulletproof MSO/VML donation tier buttons, dynamic ESP personalization tokens ({{donor_name}}, {{local_currency}}), multilingual conditional logic, a pull quote block, trust signal grid, and a fully CAN-SPAM/GDPR compliant footer.",
-    tags: [
-      "Personalization",
-      "Bulletproof Buttons",
-      "Single Column",
-      "ESP Ready",
-      "Light Theme",
-    ],
+      "Single-column editorial donor appeal modeled after Wikipedia's famous personal fundraising campaigns. ",
+    tags: ["Personalization", "Bulletproof Buttons", "Single Column"],
     techStack: ["HTML", "CSS"],
     link: "https://emaildeveloper.netlify.app/wikimedia/donor-appeal",
   },
@@ -72,14 +66,8 @@ const data = [
     title: "Monthly Impact Newsletter",
     tag: "Newsletter",
     description:
-      "Responsive 2-column zig-zag layout that gracefully collapses to single-column on mobile via media queries. Features a dark masthead, stat grid, image-text alternating sections, table-based progress allocation bars with color-coded categories, and a bulletproof CTA — built to Wikipedia's editorial standards.",
-    tags: [
-      "Responsive",
-      "Multi-column",
-      "Dark Header",
-      "Data Visualization",
-      "Light Theme",
-    ],
+      "Responsive 2-column zig-zag layout that gracefully collapses to single-column on mobile via media queries.",
+    tags: ["Responsive", "Multi-column"],
     techStack: ["HTML", "CSS"],
     link: "https://emaildeveloper.netlify.app/wikimedia/monthly-newsletter",
   },
